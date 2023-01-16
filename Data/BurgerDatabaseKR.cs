@@ -45,6 +45,7 @@ namespace Hamburguesa_KevinRosero.Data
             List<BurgerKR> burgers = conn.Table<BurgerKR>().ToList();
             return burgers;
         }
+
     }
 
 }

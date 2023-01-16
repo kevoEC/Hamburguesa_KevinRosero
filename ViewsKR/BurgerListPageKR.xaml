@@ -13,7 +13,7 @@
                 <DataTemplate x:DataType="models:BurgerKR">
                     <VerticalStackLayout>
                         <BoxView Color="White" HeightRequest="20"/>
-                        <Grid ColumnDefinitions="*,2*" RowDefinitions="*,*,*">
+                        <Grid ColumnDefinitions="*,2*" RowDefinitions="*,*,*" >
                             <Label Grid.Column="0" Grid.Row="0" HorizontalOptions="Start" Text="{Binding Id_KevinR}" />
                             <Label Grid.Column="1" Grid.Row="0" FontAttributes="Bold" FontSize="18" Text="{Binding Name_KevinR}" />
                             <Label Grid.Column="0" Grid.Row="1" FontAttributes="Bold" Text="Descripción:"/>

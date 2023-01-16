@@ -1,4 +1,6 @@
 using Hamburguesa_KevinRosero.Models;
+using System.Xml.Linq;
+
 namespace Hamburguesa_KevinRosero.ViewsKR;
 
 public partial class BurgerListPageKR : ContentPage
@@ -21,8 +23,9 @@ public partial class BurgerListPageKR : ContentPage
         burgerList.ItemsSource = burger;
     }
 
-    private void CollectionView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    async void CollectionView_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
-
+        List<BurgerKR> burger = App.BurgerRepoKR.GetAllBurgers();
+        await Shell.Current.GoToAsync(nameof(BurgerItemPageKR));
     }
 }
