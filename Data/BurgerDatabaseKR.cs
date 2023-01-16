@@ -28,9 +28,10 @@ namespace Hamburguesa_KevinRosero.Data
 
         public int AddNewBurger(BurgerKR burger)
         {
-            Init();
-            int result = conn.Insert(burger);
-            return result;
+            if (burger.Id_KevinR != 0)
+                return conn.Update(burger);
+            else
+                return conn.Insert(burger);
         }
 
         public int RemoveBurger(BurgerKR burger)
