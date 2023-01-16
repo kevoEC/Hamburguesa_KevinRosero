@@ -25,7 +25,6 @@ public partial class BurgerListPageKR : ContentPage
 
     async void CollectionView_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
-        List<BurgerKR> burger = App.BurgerRepoKR.GetAllBurgers();
         await Shell.Current.GoToAsync(nameof(BurgerItemPageKR));
     }
 }

@@ -33,11 +33,12 @@ namespace Hamburguesa_KevinRosero.Data
             return result;
         }
 
-        public void RemoveBurger(BurgerKR burger)
+        public int RemoveBurger(BurgerKR burger)
         {
             Init();
-            conn.Delete(burger);
+            return conn.Delete(burger);
         }
+
 
         public List<BurgerKR> GetAllBurgers()
         {
