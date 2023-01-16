@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hamburguesa_KevinRosero.ViewsKR.BurgerListPageKR"
              xmlns:models="clr-namespace:Hamburguesa_KevinRosero.Models"
-             Title="BurgerListPageKR">
+             Title="Lista de Hamburguesas (Kevin Rosero)">
     <Grid RowDefinitions="*,Auto">
         <CollectionView x:Name="burgerListKR"
                         ItemsSource="{Binding Items}"

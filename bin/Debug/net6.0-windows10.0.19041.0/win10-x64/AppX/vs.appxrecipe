@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Progra4\Hamburguesa_KevinRosero\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-01-16T05:32:10.655</Modified>
+      <Modified>2023-01-16T05:45:24.884</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Progra4\Hamburguesa_KevinRosero\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-01-16T05:32:09.838</Modified>
+      <Modified>2023-01-16T05:45:24.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Progra4\Hamburguesa_KevinRosero\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hamburguesa_KevinRosero.runtimeconfig.json">
       <PackagePath>Hamburguesa_KevinRosero.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Progra4\Hamburguesa_KevinRosero\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hamburguesa_KevinRosero.dll">
       <PackagePath>Hamburguesa_KevinRosero.dll</PackagePath>
-      <Modified>2023-01-16T05:32:08.861</Modified>
+      <Modified>2023-01-16T05:45:23.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Progra4\Hamburguesa_KevinRosero\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Hamburguesa_KevinRosero.exe</PackagePath>
-      <Modified>2023-01-16T05:32:08.884</Modified>
+      <Modified>2023-01-16T05:45:23.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rosco\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1087,7 +1087,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Progra4\Hamburguesa_KevinRosero\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Hamburguesa_KevinRosero.deps.json">
       <PackagePath>Hamburguesa_KevinRosero.deps.json</PackagePath>
-      <Modified>2023-01-16T05:32:10.490</Modified>
+      <Modified>2023-01-16T05:45:24.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rosco\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

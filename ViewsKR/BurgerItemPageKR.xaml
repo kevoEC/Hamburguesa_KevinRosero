@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hamburguesa_KevinRosero.ViewsKR.BurgerItemPageKR"
              xmlns:models="clr-namespace:Hamburguesa_KevinRosero.Models"
-             Title="BurgerItemPageKR">
+             Title="Ingresa una Hamburguesa (Kevin Rosero)">
     <ScrollView>
         <VerticalStackLayout Padding="20"
                              Spacing="10"
