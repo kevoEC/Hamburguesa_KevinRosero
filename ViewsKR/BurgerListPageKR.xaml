@@ -5,7 +5,10 @@
              xmlns:models="clr-namespace:Hamburguesa_KevinRosero.Models"
              Title="BurgerListPageKR">
     <Grid RowDefinitions="*,Auto">
-        <CollectionView x:Name="burgerList">
+        <CollectionView x:Name="burgerList"
+                        ItemsSource="{Binding Items}"
+                        SelectionMode="Single"
+                        SelectionChanged="CollectionView_SelectionChanged">
             <CollectionView.ItemTemplate>
                 <DataTemplate x:DataType="models:BurgerKR">
                     <VerticalStackLayout>

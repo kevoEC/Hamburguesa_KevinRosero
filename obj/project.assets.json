@@ -27515,11 +27515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosco\\OneDrive\\Escritorio\\Programacion4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
+      "projectUniqueName": "C:\\Progra4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
       "projectName": "Hamburguesa_KevinRosero",
-      "projectPath": "C:\\Users\\rosco\\OneDrive\\Escritorio\\Programacion4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
+      "projectPath": "C:\\Progra4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
       "packagesPath": "C:\\Users\\rosco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosco\\OneDrive\\Escritorio\\Programacion4\\Hamburguesa_KevinRosero\\obj\\",
+      "outputPath": "C:\\Progra4\\Hamburguesa_KevinRosero\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

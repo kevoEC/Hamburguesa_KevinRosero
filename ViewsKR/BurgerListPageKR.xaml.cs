@@ -20,4 +20,9 @@ public partial class BurgerListPageKR : ContentPage
         List<BurgerKR> burger = App.BurgerRepoKR.GetAllBurgers();
         burgerList.ItemsSource = burger;
     }
+
+    private void CollectionView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+
+    }
 }

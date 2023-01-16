@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TatxFj0sxm6kCV8OggCcjdYDRQ7slqOA22DL2ioD96MGxwQZHjdZYt9lD/ZnarRh8AkAlxj0Sch4UQcJchPkKA==",
+  "dgSpecHash": "J80VXsEn5R89rJdxDKhW1G2VbWJ8NTexnurf5Bv+LXzuqaJCg5Clt2Gyxmnielp60BRg9naUGBXJG+VL6JvyYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosco\\OneDrive\\Escritorio\\Programacion4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
+  "projectFilePath": "C:\\Progra4\\Hamburguesa_KevinRosero\\Hamburguesa_KevinRosero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosco\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\rosco\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
